@@ -46,3 +46,5 @@ The admin page is where we can CRUD (Create Read Update Delete) our data.
 #### The Remote View
 The remote page is where the realtime component becomes important. Here, we can choose an entity and then update their score.
 
+#### Firebase JavaScript API reference
+https://www.firebase.com/docs/web/api/
